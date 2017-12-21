@@ -1,0 +1,6 @@
+This program was created by boomboompower, it is open source
+and may be cloned and modified without restriction, however
+it must contain the authors name and link to the repository if
+it is being used for production (Not private) purposes.
+
+https://github.com/boomboompower/Mass-FileName-Refactorer
